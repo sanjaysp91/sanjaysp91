@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sanjaysp91 - Sanjay 
+- I am a control systems engineer. 
 - 👀 I’m interested in designing, developing, coding and building.  
 - 🌱 I’m currently learning signal processing, machine learning and website design. 
 - 💞️ I’m looking to collaborate on open source projects. 
